@@ -1,2 +1,2 @@
-# discourse-oauth1
-OAuth 1.0a plugin for Discourse
+# discourse-mediawiki
+MediaWiki single sign-on plugin for Discourse
